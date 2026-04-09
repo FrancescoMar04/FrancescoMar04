@@ -2,7 +2,7 @@
 
 Computer Engineering student with a strong interest in cybersecurity, particularly focused on blue team activities and SOC analysis.
 
-I develop practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, and defensive security techniques.
+I am continuously developing practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, and defensive security techniques.
 
 ## Current Focus
 - Log analysis and threat detection
