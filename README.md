@@ -12,6 +12,3 @@ I develop practical skills through hands-on labs and cybersecurity projects, wor
 
 ## Projects
 My projects available in my repositories.
-
-## Connect with me
-LinkedIn: linkedin.com/in/francesco-mariani-
