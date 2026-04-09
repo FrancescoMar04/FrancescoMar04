@@ -11,11 +11,7 @@ I develop practical skills through hands-on labs and cybersecurity projects, wor
 - Network and system security
 
 ## Projects
-- SSH Brute Force Detection and Hardening Lab  
-  Simulation of a brute-force attack against an SSH service with log analysis, detection using Fail2Ban, and final system hardening.
-
-More projects available in my repositories.
+My projects available in my repositories.
 
 ## Connect with me
-LinkedIn: https://linkedin.com/in/your-link  
-GitHub: https://github.com/FrancescoMar04
+LinkedIn: https://linkedin.com/in/your-link
