@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Francesco 👋
 
-<!--
-**FrancescoMar04/FrancescoMar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student with a strong interest in cybersecurity, particularly focused on blue team activities and SOC analysis.
 
-Here are some ideas to get you started:
+I develop practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis and defensive security techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Blue Team fundamentals
+- Log analysis and intrusion detection
+- SIEM technologies (learning Splunk and Microsoft Sentinel)
+- Network and system security
+
+## Projects
+- SSH Brute Force Detection and Hardening Lab  
+  Simulation of a brute-force attack against an SSH service with log analysis, detection using Fail2Ban, and final system hardening.
+
+More projects available in my repositories.
+
+## Connect with me
+LinkedIn: https://linkedin.com/in/your-link  
+GitHub: https://github.com/FrancescoMar04
