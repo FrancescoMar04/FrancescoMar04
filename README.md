@@ -5,10 +5,10 @@ Computer Engineering student with a strong interest in cybersecurity, particular
 I develop practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis and defensive security techniques.
 
 ## Current Focus
-- Log analysis and intrusion detection
-- SIEM system (learning Splunk and Microsoft Sentinel)
+- Log analysis and threat detection
+- SIEM technologies (Splunk, Microsoft Sentinel)
 - Linux system security
-- Network security and defensive techniques
+- Network security monitoring
 
 ## Projects
 My projects available in my repositories.
