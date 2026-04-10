@@ -1,8 +1,25 @@
-# Francesco's IT and Cybersecurity Portfolio🔐
+# Francesco's Cybersecurity Project Portfolio🔐
 
-Computer Engineering student with a strong interest in cybersecurity, particularly focused on blue team activities and SOC analysis.
+I am a Computer Engineering student focused on cybersecurity, particularly blue team operations and SOC analysis.
 
-I am continuously developing practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, and defensive security techniques.
+I continuously develop practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, intrusion detection, and defensive security techniques.
 
-## Projects
-- [Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
+---
+
+## Security Monitoring & Intrusion Detection Projects
+
+- [SSH Brute Force Detection and Hardening Lab](link_repo)
+- Log-Based Intrusion Detection Lab (in progress)
+
+---
+
+## Log Analysis & Security Investigation
+
+- SSH Authentication Log Analysis (auth.log investigation)
+
+---
+
+## SIEM & Detection Engineering (Learning Path)
+
+- SIEM Detection Lab (Wazuh / Splunk) – upcoming
+- Threat Detection Use Cases – upcoming
