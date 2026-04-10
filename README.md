@@ -11,6 +11,6 @@ I continuously develop practical skills through hands-on labs and cybersecurity 
 -
 
 
-## Security Operations & Incident Response Projects
+## Security Monitoring & Intrusion Detection
 
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
