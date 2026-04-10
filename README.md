@@ -9,7 +9,7 @@ I continuously develop practical skills through hands-on labs and cybersecurity 
 ## SIEM Monitoring & Incident Response
 
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
-- SIEM Incident Response Lab
+- SIEM Incident Response Lab (Wazuh)
 
 ## Threat Hunting & Security Investigation
 
