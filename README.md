@@ -1,4 +1,4 @@
-# Hi, I'm Francesco 👋
+# Francesco's IT and Cybersecurity Project Portfolio 🔒
 
 Computer Engineering student with a strong interest in cybersecurity, particularly focused on blue team activities and SOC analysis.
 
