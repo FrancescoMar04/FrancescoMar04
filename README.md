@@ -6,11 +6,11 @@ I continuously develop practical skills through hands-on labs and cybersecurity 
 
 ---
 
-## Security Operations & Incident Response
-
--
-
-
-## Security Monitoring & Intrusion Detection
+## SIEM Monitoring & Incident Response
 
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
+- 
+
+## Threat Hunting & Security Investigation
+
+-
