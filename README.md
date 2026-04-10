@@ -5,4 +5,4 @@ Computer Engineering student with a strong interest in cybersecurity, particular
 I am continuously developing practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, and defensive security techniques.
 
 ## Projects
-- - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
+- [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
