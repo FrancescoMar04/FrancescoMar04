@@ -4,11 +4,5 @@ Computer Engineering student with a strong interest in cybersecurity, particular
 
 I am continuously developing practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, and defensive security techniques.
 
-## Current Focus
-- Log analysis and threat detection
-- SIEM technologies (Splunk, Microsoft Sentinel)
-- Linux system security
-- Network security monitoring
-
 ## Projects
-My projects are available in the repositories below.
+- - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
