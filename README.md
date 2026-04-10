@@ -6,20 +6,7 @@ I continuously develop practical skills through hands-on labs and cybersecurity 
 
 ---
 
-## Security Monitoring & Intrusion Detection Projects
+## Security Operations & Incident Response Projects
 
-- [SSH Brute Force Detection and Hardening Lab](link_repo)
+- [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
 - Log-Based Intrusion Detection Lab (in progress)
-
----
-
-## Log Analysis & Security Investigation
-
-- SSH Authentication Log Analysis (auth.log investigation)
-
----
-
-## SIEM & Detection Engineering (Learning Path)
-
-- SIEM Detection Lab (Wazuh / Splunk) – upcoming
-- Threat Detection Use Cases – upcoming
