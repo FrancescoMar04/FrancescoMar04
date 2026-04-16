@@ -20,10 +20,6 @@ Building practical experience through hands-on labs, SIEM projects, and structur
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/FrancescoMar04/Siem-incident-response-lab-wazuh.git)
 
-## 🔍Threat Hunting & Security Investigation
-
--
-
 ## 🛡️ Network Security & Hardening
 
 - Firewall Incident Detection and Response Lab
