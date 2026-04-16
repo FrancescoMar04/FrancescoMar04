@@ -22,4 +22,4 @@ Building practical experience through hands-on labs, SIEM projects, and structur
 
 ## 🛡️ Network Security & Hardening
 
-- [Firewall Incident Detection and Response Lab](https://github.com/FrancescoMar04/Firewall-Incident-Detection-and-Response-Lab.git)
+- [Firewall Incident Detection and Response Lab](https://github.com/FrancescoMar04/Firewall-Incident-Detection-and-Response-Lab.git) (in progress)
