@@ -5,12 +5,22 @@ I am a Computer Engineering student focused on cybersecurity, particularly blue 
 I continuously develop practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, intrusion detection, and defensive security techniques.
 
 ---
+## 🔧 Core Skills
+
+- SIEM (Wazuh, log analysis)
+- Incident Response & Investigation
+- Linux Security & System Logs
+- Threat Detection & Monitoring
+- Network Security Basics
+
+--- 
 
 ## 🚨SIEM Monitoring & Incident Response
 
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/FrancescoMar04/Siem-incident-response-lab-wazuh.git)
 
-## ⚠️Threat Hunting & Security Investigation
+## 🔍Threat Hunting & Security Investigation
 
 -
+
