@@ -1,6 +1,6 @@
 # Francesco's Cybersecurity Project Portfolio🔐
 
-HI my name is Francesco, and i am a Computer Engineering student focused on cybersecurity, particularly in blue team operations and SOC analysis.
+Hi, my name is Francesco and I'm a Computer Engineering student specializing in cybersecurity, specifically blue team operations and SOC analysis.
 
 I continuously develop practical skills through hands-on labs and cybersecurity projects, working with Linux systems, log analysis, intrusion detection, and defensive security techniques.
 
