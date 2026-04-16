@@ -7,7 +7,7 @@ I continuously develop practical skills through hands-on labs and cybersecurity 
 ---
 ## 🔧 Core Skills
 
-- SIEM (Wazuh, log analysis)
+- SIEM and log analysis
 - Incident Response & Investigation
 - Linux Security & System Logs
 - Threat Detection & Monitoring
