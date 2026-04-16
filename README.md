@@ -1,8 +1,7 @@
 # Francesco's Cybersecurity Project Portfolio🔐
 
-Computer Engineering Student specializing in Cybersecurity  
-Focused on Blue Team operations and SOC analysis  
-Building hands-on experience in SIEM, log analysis, and incident detection
+Computer Engineering student specializing in cybersecurity, with a focus on blue team operations and SOC analysis.  
+Building practical experience through hands-on labs, SIEM projects, and structured cybersecurity training.
 
 ---
 
