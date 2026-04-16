@@ -25,3 +25,5 @@ Building practical experience through hands-on labs, SIEM projects, and structur
 -
 
 ## 🛡️ Network Security & Hardening
+
+- Firewall Incident Detection and Response Lab
