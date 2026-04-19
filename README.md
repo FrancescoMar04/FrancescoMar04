@@ -10,11 +10,11 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 
 ## 🔧 Core Skills
 
-- SIEM and log analysis
-- Incident Response & Investigation
-- Linux Security & System Logs
-- Threat Detection & Monitoring
-- Network Security Basics
+- SIEM Monitoring & Event Correlation
+- Incident Detection, Triage & Response
+- Linux System & Authentication Log Analysis
+- Threat Detection & Security Monitoring
+- Network Security & Firewall Configuration
 
 --- 
 
